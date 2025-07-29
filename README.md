@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Muhammad Jami Sultani!
 
-I’m an **enthusiastic DevOps engineer in training** with hands-on experience in key tools like **Linux**, **Git**, **Jenkins**, **Ansible**, **Docker**, and **AWS EC2**. I thrive on **automating infrastructure**, **building scalable CI/CD pipelines**, and continuously learning to deliver **efficient, reliable solutions**. Passionate about turning **complex challenges** into **seamless workflows**.
+I’m an enthusiastic **DevOps Engineer** in training with hands-on experience in key tools like **Linux**, **Git**, & **Github**, **Jenkins**, **Ansible**, **Docker**, and **AWS EC2**. I thrive on **automating infrastructure**, **building scalable CI/CD pipelines**, and continuously learning to deliver **efficient, reliable solutions**. Passionate about turning **complex challenges** into **seamless workflows**.
 
 ---
 
