@@ -6,12 +6,12 @@ I'm a motivated DevOps Engineer in training focused on automation, cloud infrast
 
 ### 🔧 Core Skills & Tools
 
-- 🐧 Linux administration & scripting  
-- ☁️ AWS EC2 provisioning & management  
-- 🔧 Git & GitHub for version control  
-- ⚙️ Ansible automation & Infrastructure as Code (IaC)  
-- 🛠️ Jenkins CI/CD pipelines  
-- 🐳 Docker containerization
+- 🐧 Linux System Administration & Bash Scripting  
+- ☁️ AWS EC2 - Cloud Infrastructure Management  
+- 🔧 Git & GitHub - Version Control & Collaboration  
+- ⚙️ Ansible - Infrastructure Automation & IaC  
+- 🛠️ Jenkins - CI/CD Pipeline Design & Automation  
+- 🐳 Docker - Containerization & Deployment  
 
 ---
 
