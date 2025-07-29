@@ -21,7 +21,7 @@ I’m an enthusiastic DevOps engineer in training with hands-on experience in ke
 
 ---
 
-🚀 Projects & Experience
+### 🚀 Projects & Experience
 
 - Automated infrastructure provisioning and configuration management using Ansible on AWS EC2 instances.
 - Developed and maintained Jenkins CI/CD pipelines for faster and reliable deployments.  
@@ -31,7 +31,7 @@ I’m an enthusiastic DevOps engineer in training with hands-on experience in ke
 
 ---
 
-Open for Internship & Collaboration
+### 🌟Open for 💼Internship & 🤝Collaboration
 
 💡 I’m actively seeking internships and mentorship opportunities in DevOps and Cloud Computing, eager to contribute my skills to real-world projects. Passionate about learning, collaboration, and driving automation to build scalable and efficient infrastructure. Excited to grow with innovative teams and make meaningful impacts in technology.
 
