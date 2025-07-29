@@ -31,9 +31,15 @@ I’m an enthusiastic DevOps engineer in training with hands-on experience in ke
 
 ---
 
+Open for Internship & Collaboration
+
+💡 I’m actively seeking internships and mentorship opportunities in DevOps and Cloud Computing, eager to contribute my skills to real-world projects. Passionate about learning, collaboration, and driving automation to build scalable and efficient infrastructure. Excited to grow with innovative teams and make meaningful impacts in technology.
+
+---
+
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-jami-sultani-251ab731a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/jamisultani)  
-✉️ Email: sultanijami03@gmail.com
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sultanijami03@gmail.com)
 
